@@ -13,4 +13,9 @@ For further information go the [the Wiki](../../wiki).
 
 [Presentations](../../wiki/Presentations)
 
+[Metrics](../../wiki/Metrics-Explained)
+
+[Tests](../../wiki/Tests-for-Performance)
+
+
 
