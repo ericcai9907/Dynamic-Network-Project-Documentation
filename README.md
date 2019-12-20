@@ -17,5 +17,7 @@ For further information go the [the Wiki](../../wiki).
 
 [Tests](../../wiki/Tests-for-Performance)
 
+[Reports](../../wiki/Reports)
+
 
 
