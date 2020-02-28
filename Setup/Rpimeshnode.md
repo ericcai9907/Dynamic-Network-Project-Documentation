@@ -56,7 +56,7 @@
     ```text
     #!/bin/bash
     # batman-adv interface to use
-    sudo batctl ra BATMAN_V
+    #sudo batctl ra BATMAN_V
     sudo batctl meshif bat0 if add wlan0
     sudo ifconfig bat0 mtu 1532
 
