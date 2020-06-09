@@ -10,10 +10,13 @@ udpserver.cpp & udpclient.cpp -> These are sample codes for an UDP file transfer
 
 One interesting implementation that warrants further research is UFTP; http://uftp-multicast.sourceforge.net/ 
 licensed under GNU General Public Use license
+
 This protocol uses UDP to handle FTP and manages data to ensure reliable transfer. 
 
 Documentation:
+
 Server: http://uftp-multicast.sourceforge.net/server_usage.txt
+
 Client: http://uftp-multicast.sourceforge.net/client_usage.txt
 
 
